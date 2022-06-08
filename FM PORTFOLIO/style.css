@@ -1,0 +1,125 @@
+.navbar{
+    display: flex;
+}
+body{
+    background-color: #282F40;
+}
+.naval{
+    display: flex;
+}
+.logo{
+    color: white;
+}
+.home{
+    color: white;
+    padding-left: 60rem;
+
+}
+.project{
+    color: white;
+    padding-left: 4rem;
+
+}
+.about{
+    color: white;
+    padding-left: 4rem;
+
+}
+.contact{
+    color: white;
+    padding-left: 4rem;
+
+}
+H1{
+    font-weight: bolder;
+    font-size: 500%;
+    color: white;
+    line-height: 11px;
+}
+H2{
+    font-weight: 800%;
+    font-size: 300%;
+    color: midnightblue;
+}
+
+.be{
+    width: 40px;
+}
+.hike{
+    width: 40px;
+}
+.inst{
+    width: 40px;
+}
+.link{
+    width: 40px;
+}
+.fone{
+    display: flex;
+}
+.tree{
+    padding-left: 3%;
+    width: 58rem;
+    height: 40rem;
+    
+
+}
+.fiv{
+    padding-left: 3%;
+    width: 58rem;
+    height: 40rem;
+
+}
+.pro{
+    font-weight: 900%;
+    font-style: normal;
+    font-size: 40px;
+    color:white ;
+    padding-left: 3rem;
+}
+.tra{
+    display: flex;
+}
+.VIL{
+font-weight: 900%;
+font-style: normal;
+font-size:40px;
+color: whitesmoke;
+
+
+
+}
+.duc{
+    color:whitesmoke ;
+    padding-left: 2rem;
+    font-weight: 400px;
+    font-size: x-large;
+    padding-bottom: 2rem;
+    font-style:inherit;
+
+}
+.stra{
+    color: whitesmoke;
+    padding-left:2rem;
+    font-weight:400px;
+    font-size:x-large ;
+
+
+}
+.web{
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.mob{
+    display: flex;
+    background-color: whitesmoke;
+}
+.WORK{
+    font-size: 38px;
+    font: weight 20px;
+
+
+}
+
+
+ 
